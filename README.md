@@ -13,4 +13,4 @@ Usage:
  * Under my account on the website create access token.
  * Paste the access token in the end_time_script placeholder 
 
-* Enjoy your leisure compile time.
+* Enjoy your leisure compile time.(https://xkcd.com/303/)
