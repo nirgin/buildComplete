@@ -1,7 +1,7 @@
 # buildComplete
 Push notification from xcode on build complete using Pushbullet
 
-Usage:
+#### Usage:
 
 * In Xcode, go to Preferences -> Behaviors. 
  * Under Build -> Start, add `build_time_start.sh` to Run  
@@ -15,5 +15,5 @@ Usage:
 * Enjoy your leisure compile time (https://xkcd.com/303/)
   
   
-Notes:  
+##### Notes:  
 The script sends a notification if the build time was over 10 minutes. You can change this time in the script to suit your needs.
