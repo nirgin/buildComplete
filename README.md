@@ -14,3 +14,7 @@ Usage:
  * Paste the access token in the end_time_script placeholder 
 
 * Enjoy your leisure compile time.(https://xkcd.com/303/)
+
+Notes:
+
+The script sends a notification if the build time was over 10 minutes. You can change this time in the script to suit your needs.
