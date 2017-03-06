@@ -3,6 +3,8 @@ Push notification from xcode on build complete using Pushbullet
 
 #### Usage:
 
+* Download the two scripts in the repo
+* Give the scripts execute permissions (`chmod a+x script`)
 * In Xcode, go to Preferences -> Behaviors. 
  * Under Build -> Start, add `build_time_start.sh` to Run  
  * Under Build -> Succeeds add `end_time_script.sh` to Run
