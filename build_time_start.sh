@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(date +%s) > ../build_start_time
+echo $(date +%s) > /tmp/build_start_time
