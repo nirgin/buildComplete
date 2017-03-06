@@ -12,7 +12,7 @@ Push notification from xcode on build complete using Pushbullet
 * Download the PushBullet app (https://www.pushbullet.com/apps) 
  * Create an account 
  * Under my account on the website create access token
- * Paste the access token in the end_time_script placeholder 
+ * Add `export PUSHBULLET_ACCESS_TOKEN="<your_access_token_here>"` to your bash profile
 
 * Enjoy your leisure compile time (https://xkcd.com/303/)
   
