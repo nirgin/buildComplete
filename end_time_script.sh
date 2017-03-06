@@ -1,5 +1,5 @@
-#!/bin/sh
-START=$(cat ../build_start_time)
+#!/bin/bash
+START=$(cat /tmp/build_start_time)
 END=$(date +%s)
 TOTAL=$(echo "($END - $START) / 60" | bc)
 
